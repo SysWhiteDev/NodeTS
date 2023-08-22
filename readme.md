@@ -1,20 +1,37 @@
 # NodeTS
+A premade Node.js environment with TypeScript support 🎉
 
-- What is this? <br>
-This is a premade nodejs enviroment with typescript support
+## Index
+- [Usage](#usage)
+- [Available Commands](#available-commands)
 
-## How can i use this?
-Clone the repo
+## Usage
+1. Clone the repository:
+   ```sh
+   git clone https://SysWhiteDev/nodets
+   ```
 
-```
-git clone https://SysWhiteDev/nodets
-```
-Install dependencies
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
 
-```
-npm install
-```
-<b>NOTE! if you want to publish any project based on this remember to edit the "package.json"</b>
+3. **Note**: If you want to publish any project based on this environment, remember to edit the "package.json" file.
 
-## Available commands
-npm build
+## Available Commands
+You can use the following commands:
+
+- **Build**: Just build the project
+  ```sh
+  npm run build
+  ```
+
+- **Build and Start**: Build and automatically start the project
+  ```sh
+  npm run start
+  ```
+
+- **Development Mode**: Enter the development mode
+  ```sh
+  npm run dev
+  ```
