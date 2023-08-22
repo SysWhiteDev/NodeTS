@@ -6,12 +6,10 @@ A premade Node.js environment with TypeScript support 🎉
 - [Available Commands](#available-commands)
 
 ## Usage
-1. Clone the repository:
-   ```sh
-   git clone https://SysWhiteDev/nodets
-   ```
-
-2. Install dependencies:
+1. Click the "use this template" button on the top right corner
+2. Click create a new repository
+3. Clone that repository
+4. Install dependencies:
    ```sh
    npm install
    ```
